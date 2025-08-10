@@ -21,6 +21,16 @@ http://54.147.36.38:8080
 Apk:
 https://drive.google.com/file/d/12Wq0UzgSFcEBfSKXGMuYoHnAg6XV3_jV/view?usp=sharing
 
+Pasos para desplegar la api y la web:
+
+1.Instalar Xampp
+
+2.Colocar las carpetas de la api y la web en C:\xampp\htdocs
+
+3.Levantar el apache de xampp
+
+4.Dirigirse a http://localhost/nombrecarpeta
+
 Pasos para desglegar la app:
 
 1.Situarse en la raiz del proyecto y abrir la terminal
