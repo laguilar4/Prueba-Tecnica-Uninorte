@@ -20,3 +20,15 @@ http://54.147.36.38:8080
 
 Apk:
 https://drive.google.com/file/d/12Wq0UzgSFcEBfSKXGMuYoHnAg6XV3_jV/view?usp=sharing
+
+Pasos para desglegar la app:
+1.Situarse en la raiz del proyecto y abrir la terminal
+
+2.Escribir flutter pub get
+
+3.Escribir flutter run y escoger con que dispositivo correr la aplicacion(Puede ser un emulador o un dispositivo fisico conectado a la pc o tambien se puede con el navegador)
+
+Flutter 3.27.1 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision 17025dd882 (8 months ago) • 2024-12-17 03:23:09 +0900
+Engine • revision cb4b5fff73
+Tools • Dart 3.6.0 • DevTools 2.40.2
