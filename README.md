@@ -22,6 +22,7 @@ Apk:
 https://drive.google.com/file/d/12Wq0UzgSFcEBfSKXGMuYoHnAg6XV3_jV/view?usp=sharing
 
 Pasos para desglegar la app:
+
 1.Situarse en la raiz del proyecto y abrir la terminal
 
 2.Escribir flutter pub get
