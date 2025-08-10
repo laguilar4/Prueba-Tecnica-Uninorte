@@ -18,12 +18,5 @@ http://54.147.36.38/
 Api:
 http://54.147.36.38:8080
 
-Base de datos:
-MYSQL_DATABASE: dtic_uninorte
-root
-MYSQL_ROOT_PASSWORD: PasSWoRD-PrueBaTECnica
-54.147.36.38
-3306
-
 Apk:
 https://drive.google.com/file/d/12Wq0UzgSFcEBfSKXGMuYoHnAg6XV3_jV/view?usp=sharing
